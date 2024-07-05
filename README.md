@@ -1,6 +1,8 @@
 # Dice Roll Game
 
-This is a simple command-line based dice roll game for 2 to 4 players. The objective of the game is to be the first player to reach a score of 50.
+This is a simple command-line dice game for 2 to 4 players. Players take turns rolling a die to accumulate points. Rolling a 1 ends the turn with no points scored. Players can roll again or hold. The first player to reach or exceed 50 points wins. It's a fun and engaging game that encourages strategic risk-taking and decision-making. Enjoy playing!
+
+
 
 ## Features
 
